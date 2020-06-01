@@ -2,7 +2,7 @@
 
 * [Титульный лист](README.md)
 * [3. Концепция практического робота. Процесс проектирования](3.-koncepciya-prakticheskogo-robota.-process-proektirovaniya.md)
-* [3. 1 Системы на основе инженерных подходов к робототехнике](untitlafasfsafed.md)
+* [3. 1 Системы на основе инженерных подходов к робототехнике](3.1-systemi-na-osnove-ingenernix-podxodov.md)
 * [3.1.1 Наша задача - навести порядок в игровой комнате](3.1.1-nasha-zadacha-navesti-poryadok-v-igrovoi-komnate.md)
 * [3.2 Варианты использования](3.2-varianty-ispolzovaniya.md)
 * [3.2.1 Проблема - часть 1](3.2.1-problema-chast-1.md)
